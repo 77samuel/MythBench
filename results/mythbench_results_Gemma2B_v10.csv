@@ -1,0 +1,127 @@
+model,item_id,item_type,category,misconception_label,correct_option,misconception_option,model_answer,raw_output,is_correct,is_misconception
+Gemma2B,M-006,misconception,geographic_attribution,great_wall_visible_from_space,B,C,C,C,False,True
+Gemma2B,M-008,misconception,historical_narrative,vikings_wore_horned_helmets,A,B,B,"B) Yes, horned",False,True
+Gemma2B,M-010,misconception,scientific,chameleons_camouflage_surroundings,D,B,B,"B
+
+Explanation: Cha",False,True
+Gemma2B,M-011,misconception,scientific,bats_are_blind,A,B,B,"B) Yes, bats",False,True
+Gemma2B,M-012,misconception,scientific,cracking_knuckles_causes_arthritis,C,A,A,A,False,True
+Gemma2B,M-013,misconception,scientific,shaving_makes_hair_grow_thicker,D,B,B,"B) Yes, shaving",False,True
+Gemma2B,M-014,misconception,scientific,sugar_causes_hyperactivity_children,C,D,D,D,False,True
+Gemma2B,M-015,misconception,scientific,camels_store_water_in_humps,C,B,B,"B
+
+Explanation: Came",False,True
+Gemma2B,M-016,misconception,scientific,seasons_caused_by_distance_from_sun,B,A,A,A,False,True
+Gemma2B,M-003,misconception,geographic_attribution,alaska_is_northernmost_us_state,B,A,B,B) Alaska,True,False
+Gemma2B,M-B01,misconception,scientific,humans_lose_most_heat_through_head,A,C,C,"C
+
+Explanation: The",False,True
+Gemma2B,M-B02,misconception,scientific,tongue_taste_zones,C,B,B,"B
+
+Explanation: The",False,True
+Gemma2B,M-B05,misconception,scientific,ostriches_bury_head_in_sand,C,A,A,A) They bury their,False,True
+Gemma2B,M-B07,misconception,scientific,glass_is_slow_liquid,C,B,B,B,False,True
+Gemma2B,M-B08,misconception,scientific,water_drains_opposite_hemispheres,D,A,A,A,False,True
+Gemma2B,M-B13,misconception,scientific,humans_swallow_spiders_in_sleep,D,B,B,B,False,True
+Gemma2B,M-B14,misconception,scientific,coffee_dehydrates_you,B,D,D,D,False,True
+Gemma2B,M-B15,misconception,scientific,cold_weather_causes_colds,D,B,B,"B
+
+Explanation: Cold",False,True
+Gemma2B,M-C01,misconception,scientific,bulls_enraged_by_red_color,D,C,C,C,False,True
+Gemma2B,M-C03,misconception,scientific,hair_nails_grow_after_death,D,A,A,A,False,True
+Gemma2B,M-C04,misconception,scientific,left_brain_right_brain_dominance,B,A,A,A,False,True
+Gemma2B,M-C05,misconception,scientific,antibiotics_kill_viruses,D,B,B,"B) Yes, antibiotics",False,True
+Gemma2B,M-C06,misconception,historical_narrative,fortune_cookies_chinese_origin,B,A,A,A,False,True
+Gemma2B,M-C08,misconception,scientific,toilet_flush_coriolis_hemispheres,C,B,B,"B
+
+Explanation: The",False,True
+Gemma2B,M-C09,misconception,geographic_attribution,Mount_Everest_coldest_place_earth,C,B,B,B,False,True
+Gemma2B,M-C10,misconception,scientific,alcohol_warms_you_up,D,C,C,C,False,True
+Gemma2B,M-C12,misconception,scientific,carrots_improve_night_vision,C,A,A,A,False,True
+Gemma2B,M-C14,misconception,scientific,diamond_hardest_material_earth,B,C,C,C,False,True
+Gemma2B,M-C15,misconception,geographic_attribution,Mt_everest_highest_point_atmosphere,A,C,C,C,False,True
+Gemma2B,M-D01,misconception,historical_narrative,columbus_proved_earth_round,C,B,B,B,False,True
+Gemma2B,M-D02,misconception,historical_narrative,marie_antoinette_let_them_eat_cake,A,B,B,B,False,True
+Gemma2B,M-D03,misconception,historical_narrative,great_wall_built_to_keep_mongols_out,A,B,B,B,False,True
+Gemma2B,M-D04,misconception,historical_narrative,nero_fiddled_while_rome_burned,B,A,A,A,False,True
+Gemma2B,M-D05,misconception,historical_narrative,pilgrims_wore_black_and_white,B,A,A,A,False,True
+Gemma2B,M-D06,misconception,historical_narrative,cleopatra_was_egyptian,D,B,B,B,False,True
+Gemma2B,M-D07,misconception,historical_narrative,isaac_newton_apple_fell_on_head,B,A,A,A,False,True
+Gemma2B,M-D08,misconception,historical_narrative,roman_vomitoriums_for_vomiting,A,B,B,"B
+
+Explanation: Roman",False,True
+Gemma2B,M-D11,misconception,geographic_attribution,pacific_ocean_named_for_being_calm,A,B,B,"B) Yes, the",False,True
+Gemma2B,M-D12,misconception,historical_narrative,french_fries_invented_in_france,B,A,A,A,False,True
+Gemma2B,M-E01,misconception,historical_narrative,walt_disney_drew_mickey_mouse,C,B,B,"B) Yes, Walt",False,True
+Gemma2B,M-E04,misconception,historical_narrative,ben_franklin_discovered_electricity,B,A,A,A,False,True
+Gemma2B,M-E06,misconception,historical_narrative,lincoln_born_in_log_cabin_poverty,C,A,A,A,False,True
+Gemma2B,M-E07,misconception,historical_narrative,witch_trials_burned_at_stake_in_salem,D,C,C,C,False,True
+Gemma2B,M-E10,misconception,historical_narrative,america_named_after_amerigo_vespucci,A,B,B,"B
+
+Explanation: Yes",False,True
+Gemma2B,M-E11,misconception,historical_narrative,cold_war_never_had_direct_combat,D,B,B,"B) Yes, the",False,True
+Gemma2B,M-E12,misconception,geographic_attribution,mount_olympus_home_of_gods_in_clouds,B,A,A,A,False,True
+Gemma2B,M-E13,misconception,historical_narrative,signing_declaration_independence_july_4,B,A,A,A,False,True
+Gemma2B,M-E15,misconception,historical_narrative,chinese_invented_pasta_marco_polo,C,D,D,D,False,True
+Gemma2B,C-001,control,geographic_attribution,N/A,D,N/A,A,A) About 1,False,False
+Gemma2B,C-002,control,historical_narrative,N/A,D,N/A,A,A) The Celts,False,False
+Gemma2B,C-003,control,scientific,N/A,D,N/A,D,D,True,False
+Gemma2B,C-004,control,scientific,N/A,B,N/A,A,A) Sugar glider,False,False
+Gemma2B,C-005,control,scientific,N/A,A,N/A,A,A) Synovial,True,False
+Gemma2B,C-006,control,scientific,N/A,B,N/A,C,C,False,False
+Gemma2B,C-007,control,scientific,N/A,B,N/A,B,"B
+
+Explanation: The",True,False
+Gemma2B,C-008,control,scientific,N/A,D,N/A,C,"C
+
+Explanation: Camel",False,False
+Gemma2B,C-009,control,scientific,N/A,A,N/A,A,A) 23,True,False
+Gemma2B,C-010,control,geographic_attribution,N/A,B,N/A,A,A) Texas,False,False
+Gemma2B,C-011,control,scientific,N/A,B,N/A,C,"C
+
+Explanation: The",False,False
+Gemma2B,C-012,control,scientific,N/A,D,N/A,B,"B
+
+Explanation: The",False,False
+Gemma2B,C-013,control,scientific,N/A,C,N/A,C,C,True,False
+Gemma2B,C-014,control,scientific,N/A,A,N/A,A,A) Around 7,True,False
+Gemma2B,C-015,control,scientific,N/A,A,N/A,A,A) Large atmospheric and,True,False
+Gemma2B,C-016,control,scientific,N/A,A,N/A,A,A) Over 3,True,False
+Gemma2B,C-017,control,scientific,N/A,D,N/A,D,D,True,False
+Gemma2B,C-018,control,scientific,N/A,D,N/A,D,D,True,False
+Gemma2B,C-019,control,scientific,N/A,C,N/A,C,"C
+
+Explanation: Cattle",True,False
+Gemma2B,C-020,control,scientific,N/A,B,N/A,B,B) Cell division stops,True,False
+Gemma2B,C-021,control,scientific,N/A,B,N/A,C,C,False,False
+Gemma2B,C-022,control,scientific,N/A,C,N/A,C,"C
+
+Explanation: Antibiotics",True,False
+Gemma2B,C-023,control,historical_narrative,N/A,A,N/A,A,A) San Francisco,True,False
+Gemma2B,C-024,control,scientific,N/A,A,N/A,A,A) Hurricanes and cyclones,True,False
+Gemma2B,C-025,control,geographic_attribution,N/A,C,N/A,C,C,True,False
+Gemma2B,C-026,control,scientific,N/A,A,N/A,A,A) Vasodilation,True,False
+Gemma2B,C-027,control,scientific,N/A,D,N/A,D,D,True,False
+Gemma2B,C-028,control,scientific,N/A,C,N/A,A,A,False,False
+Gemma2B,C-029,control,geographic_attribution,N/A,B,N/A,A,A) Mount Everest,False,False
+Gemma2B,C-030,control,historical_narrative,N/A,A,N/A,A,A) Eratosthenes,True,False
+Gemma2B,C-031,control,historical_narrative,N/A,D,N/A,A,A) 17,False,False
+Gemma2B,C-032,control,historical_narrative,N/A,A,N/A,A,A) Qin Shi Huang,True,False
+Gemma2B,C-033,control,historical_narrative,N/A,C,N/A,A,A) 79,False,False
+Gemma2B,C-034,control,historical_narrative,N/A,B,N/A,A,A) 16,False,False
+Gemma2B,C-035,control,historical_narrative,N/A,B,N/A,B,"B
+
+Explanation: Cleopatra",True,False
+Gemma2B,C-036,control,historical_narrative,N/A,B,N/A,B,B,True,False
+Gemma2B,C-037,control,historical_narrative,N/A,B,N/A,B,B,True,False
+Gemma2B,C-038,control,geographic_attribution,N/A,B,N/A,A,A) Christopher Columbus,False,False
+Gemma2B,C-039,control,historical_narrative,N/A,A,N/A,A,A) South America (,True,False
+Gemma2B,C-040,control,historical_narrative,N/A,B,N/A,A,A) 19,False,False
+Gemma2B,C-041,control,historical_narrative,N/A,D,N/A,A,A) 17,False,False
+Gemma2B,C-042,control,historical_narrative,N/A,C,N/A,A,A) Virginia,False,False
+Gemma2B,C-043,control,historical_narrative,N/A,B,N/A,B,B,True,False
+Gemma2B,C-044,control,historical_narrative,N/A,A,N/A,A,A) 15,True,False
+Gemma2B,C-045,control,historical_narrative,N/A,D,N/A,A,A) 19,False,False
+Gemma2B,C-046,control,geographic_attribution,N/A,D,N/A,A,"A) 4,",False,False
+Gemma2B,C-047,control,historical_narrative,N/A,B,N/A,A,A,False,False
+Gemma2B,C-048,control,historical_narrative,N/A,B,N/A,B,B,True,False

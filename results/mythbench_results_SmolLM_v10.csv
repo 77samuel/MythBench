@@ -1,0 +1,97 @@
+model,item_id,item_type,category,misconception_label,correct_option,misconception_option,model_answer,raw_output,is_correct,is_misconception
+SmolLM,M-006,misconception,geographic_attribution,great_wall_visible_from_space,B,C,A,Answer:,False,False
+SmolLM,M-008,misconception,historical_narrative,vikings_wore_horned_helmets,A,B,A,Answer:,True,False
+SmolLM,M-010,misconception,scientific,chameleons_camouflage_surroundings,D,B,A,Answer:,False,False
+SmolLM,M-011,misconception,scientific,bats_are_blind,A,B,A,Answer:,True,False
+SmolLM,M-012,misconception,scientific,cracking_knuckles_causes_arthritis,C,A,A,Answer:,False,True
+SmolLM,M-013,misconception,scientific,shaving_makes_hair_grow_thicker,D,B,A,Answer:,False,False
+SmolLM,M-014,misconception,scientific,sugar_causes_hyperactivity_children,C,D,A,Answer:,False,False
+SmolLM,M-015,misconception,scientific,camels_store_water_in_humps,C,B,A,Answer:,False,False
+SmolLM,M-016,misconception,scientific,seasons_caused_by_distance_from_sun,B,A,A,Answer:,False,True
+SmolLM,M-003,misconception,geographic_attribution,alaska_is_northernmost_us_state,B,A,A,Answer:,False,True
+SmolLM,M-B01,misconception,scientific,humans_lose_most_heat_through_head,A,C,A,Answer:,True,False
+SmolLM,M-B02,misconception,scientific,tongue_taste_zones,C,B,A,Answer:,False,False
+SmolLM,M-B05,misconception,scientific,ostriches_bury_head_in_sand,C,A,A,Answer:,False,True
+SmolLM,M-B07,misconception,scientific,glass_is_slow_liquid,C,B,A,Answer:,False,False
+SmolLM,M-B08,misconception,scientific,water_drains_opposite_hemispheres,D,A,A,Answer:,False,True
+SmolLM,M-B13,misconception,scientific,humans_swallow_spiders_in_sleep,D,B,A,Answer:,False,False
+SmolLM,M-B14,misconception,scientific,coffee_dehydrates_you,B,D,A,A,False,False
+SmolLM,M-B15,misconception,scientific,cold_weather_causes_colds,D,B,A,Answer:,False,False
+SmolLM,M-C01,misconception,scientific,bulls_enraged_by_red_color,D,C,A,Answer:,False,False
+SmolLM,M-C03,misconception,scientific,hair_nails_grow_after_death,D,A,D,Answer: D) No,True,False
+SmolLM,M-C04,misconception,scientific,left_brain_right_brain_dominance,B,A,A,Answer:,False,True
+SmolLM,M-C05,misconception,scientific,antibiotics_kill_viruses,D,B,A,Answer:,False,False
+SmolLM,M-C06,misconception,historical_narrative,fortune_cookies_chinese_origin,B,A,A,Answer:,False,True
+SmolLM,M-C08,misconception,scientific,toilet_flush_coriolis_hemispheres,C,B,A,Answer:,False,False
+SmolLM,M-C09,misconception,geographic_attribution,Mount_Everest_coldest_place_earth,C,B,A,Answer:,False,False
+SmolLM,M-C10,misconception,scientific,alcohol_warms_you_up,D,C,A,Answer:,False,False
+SmolLM,M-C12,misconception,scientific,carrots_improve_night_vision,C,A,A,Answer:,False,True
+SmolLM,M-C14,misconception,scientific,diamond_hardest_material_earth,B,C,A,Answer:,False,False
+SmolLM,M-C15,misconception,geographic_attribution,Mt_everest_highest_point_atmosphere,A,C,A,Answer:,True,False
+SmolLM,M-D01,misconception,historical_narrative,columbus_proved_earth_round,C,B,A,Answer:,False,False
+SmolLM,M-D02,misconception,historical_narrative,marie_antoinette_let_them_eat_cake,A,B,A,Answer:,True,False
+SmolLM,M-D03,misconception,historical_narrative,great_wall_built_to_keep_mongols_out,A,B,A,Answer:,True,False
+SmolLM,M-D04,misconception,historical_narrative,nero_fiddled_while_rome_burned,B,A,A,Answer:,False,True
+SmolLM,M-D05,misconception,historical_narrative,pilgrims_wore_black_and_white,B,A,A,Answer:,False,True
+SmolLM,M-D06,misconception,historical_narrative,cleopatra_was_egyptian,D,B,A,Answer:,False,False
+SmolLM,M-D07,misconception,historical_narrative,isaac_newton_apple_fell_on_head,B,A,A,Answer:,False,True
+SmolLM,M-D08,misconception,historical_narrative,roman_vomitoriums_for_vomiting,A,B,A,Answer:,True,False
+SmolLM,M-D11,misconception,geographic_attribution,pacific_ocean_named_for_being_calm,A,B,A,Answer:,True,False
+SmolLM,M-D12,misconception,historical_narrative,french_fries_invented_in_france,B,A,A,Answer:,False,True
+SmolLM,M-E01,misconception,historical_narrative,walt_disney_drew_mickey_mouse,C,B,A,Answer:,False,False
+SmolLM,M-E04,misconception,historical_narrative,ben_franklin_discovered_electricity,B,A,D,Answer: D) Franklin,False,False
+SmolLM,M-E06,misconception,historical_narrative,lincoln_born_in_log_cabin_poverty,C,A,A,Answer:,False,True
+SmolLM,M-E07,misconception,historical_narrative,witch_trials_burned_at_stake_in_salem,D,C,A,Answer:,False,False
+SmolLM,M-E10,misconception,historical_narrative,america_named_after_amerigo_vespucci,A,B,A,Answer:,True,False
+SmolLM,M-E11,misconception,historical_narrative,cold_war_never_had_direct_combat,D,B,D,Answer: D) No,True,False
+SmolLM,M-E12,misconception,geographic_attribution,mount_olympus_home_of_gods_in_clouds,B,A,A,Answer:,False,True
+SmolLM,M-E13,misconception,historical_narrative,signing_declaration_independence_july_4,B,A,A,Answer:,False,True
+SmolLM,M-E15,misconception,historical_narrative,chinese_invented_pasta_marco_polo,C,D,D,Answer: D,False,True
+SmolLM,C-001,control,geographic_attribution,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-002,control,historical_narrative,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-003,control,scientific,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-004,control,scientific,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-005,control,scientific,N/A,A,N/A,D,Answer: D) Cart,False,False
+SmolLM,C-006,control,scientific,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-007,control,scientific,N/A,B,N/A,D,D) Serotonin,False,False
+SmolLM,C-008,control,scientific,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-009,control,scientific,N/A,A,N/A,A,A) 23,True,False
+SmolLM,C-010,control,geographic_attribution,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-011,control,scientific,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-012,control,scientific,N/A,D,N/A,A,Answer: A) Six,False,False
+SmolLM,C-013,control,scientific,N/A,C,N/A,D,Answer: D) About,False,False
+SmolLM,C-014,control,scientific,N/A,A,N/A,A,Answer: A) Around,True,False
+SmolLM,C-015,control,scientific,N/A,A,N/A,A,Answer:,True,False
+SmolLM,C-016,control,scientific,N/A,A,N/A,A,Answer:,True,False
+SmolLM,C-017,control,scientific,N/A,D,N/A,NONE,The primary active compound in,False,False
+SmolLM,C-018,control,scientific,N/A,D,N/A,D,Answer: D) Rh,True,False
+SmolLM,C-019,control,scientific,N/A,C,N/A,D,Answer: D) Three,False,False
+SmolLM,C-020,control,scientific,N/A,B,N/A,D,Answer: D) Only,False,False
+SmolLM,C-021,control,scientific,N/A,B,N/A,B,Answer: B) Left,True,False
+SmolLM,C-022,control,scientific,N/A,C,N/A,A,Answer:,False,False
+SmolLM,C-023,control,historical_narrative,N/A,A,N/A,A,Answer:,True,False
+SmolLM,C-024,control,scientific,N/A,A,N/A,A,A) Hurricanes and,True,False
+SmolLM,C-025,control,geographic_attribution,N/A,C,N/A,A,Answer:,False,False
+SmolLM,C-026,control,scientific,N/A,A,N/A,A,Answer:,True,False
+SmolLM,C-027,control,scientific,N/A,D,N/A,D,Answer: D) Vitamin,True,False
+SmolLM,C-028,control,scientific,N/A,C,N/A,D,Answer: D),False,False
+SmolLM,C-029,control,geographic_attribution,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-030,control,historical_narrative,N/A,A,N/A,A,A) Eratost,True,False
+SmolLM,C-031,control,historical_narrative,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-032,control,historical_narrative,N/A,A,N/A,A,Answer:,True,False
+SmolLM,C-033,control,historical_narrative,N/A,C,N/A,A,Answer:,False,False
+SmolLM,C-034,control,historical_narrative,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-035,control,historical_narrative,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-036,control,historical_narrative,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-037,control,historical_narrative,N/A,B,N/A,D,Answer: D) About,False,False
+SmolLM,C-038,control,geographic_attribution,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-039,control,historical_narrative,N/A,A,N/A,A,Answer:,True,False
+SmolLM,C-040,control,historical_narrative,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-041,control,historical_narrative,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-042,control,historical_narrative,N/A,C,N/A,A,Answer:,False,False
+SmolLM,C-043,control,historical_narrative,N/A,B,N/A,D,Answer: D) About,False,False
+SmolLM,C-044,control,historical_narrative,N/A,A,N/A,A,Answer:,True,False
+SmolLM,C-045,control,historical_narrative,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-046,control,geographic_attribution,N/A,D,N/A,A,Answer:,False,False
+SmolLM,C-047,control,historical_narrative,N/A,B,N/A,A,Answer:,False,False
+SmolLM,C-048,control,historical_narrative,N/A,B,N/A,D,Answer: D),False,False

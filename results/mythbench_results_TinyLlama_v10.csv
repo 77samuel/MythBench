@@ -1,0 +1,97 @@
+model,item_id,item_type,category,misconception_label,correct_option,misconception_option,model_answer,raw_output,is_correct,is_misconception
+TinyLlama,M-006,misconception,geographic_attribution,great_wall_visible_from_space,B,C,B,Answer: B) No,True,False
+TinyLlama,M-008,misconception,historical_narrative,vikings_wore_horned_helmets,A,B,B,Answer: B) Yes,False,True
+TinyLlama,M-010,misconception,scientific,chameleons_camouflage_surroundings,D,B,D,Answer: Option D is,True,False
+TinyLlama,M-011,misconception,scientific,bats_are_blind,A,B,A,Answer: Bats can,True,False
+TinyLlama,M-012,misconception,scientific,cracking_knuckles_causes_arthritis,C,A,B,Answer: B) Only,False,False
+TinyLlama,M-013,misconception,scientific,shaving_makes_hair_grow_thicker,D,B,B,Answer: B) Yes,False,True
+TinyLlama,M-014,misconception,scientific,sugar_causes_hyperactivity_children,C,D,B,Answer: B) Only,False,False
+TinyLlama,M-015,misconception,scientific,camels_store_water_in_humps,C,B,B,Answer: B) Water,False,True
+TinyLlama,M-016,misconception,scientific,seasons_caused_by_distance_from_sun,B,A,B,Answer: B) The,True,False
+TinyLlama,M-003,misconception,geographic_attribution,alaska_is_northernmost_us_state,B,A,D,Answer: D) Mont,False,False
+TinyLlama,M-B01,misconception,scientific,humans_lose_most_heat_through_head,A,C,B,Answer: B) The,False,False
+TinyLlama,M-B02,misconception,scientific,tongue_taste_zones,C,B,B,Answer: B) Yes,False,True
+TinyLlama,M-B05,misconception,scientific,ostriches_bury_head_in_sand,C,A,B,Answer: B) They,False,False
+TinyLlama,M-B07,misconception,scientific,glass_is_slow_liquid,C,B,B,Answer: B) Yes,False,True
+TinyLlama,M-B08,misconception,scientific,water_drains_opposite_hemispheres,D,A,B,Answer: B) The,False,False
+TinyLlama,M-B13,misconception,scientific,humans_swallow_spiders_in_sleep,D,B,B,Answer: B) Yes,False,True
+TinyLlama,M-B14,misconception,scientific,coffee_dehydrates_you,B,D,B,Answer: B) No,True,False
+TinyLlama,M-B15,misconception,scientific,cold_weather_causes_colds,D,B,B,Answer: B) Yes,False,True
+TinyLlama,M-C01,misconception,scientific,bulls_enraged_by_red_color,D,C,B,Answer: B) Bull,False,False
+TinyLlama,M-C03,misconception,scientific,hair_nails_grow_after_death,D,A,B,Answer: B) Only,False,False
+TinyLlama,M-C04,misconception,scientific,left_brain_right_brain_dominance,B,A,B,Answer: B) No,True,False
+TinyLlama,M-C05,misconception,scientific,antibiotics_kill_viruses,D,B,B,Answer: B) Yes,False,True
+TinyLlama,M-C06,misconception,historical_narrative,fortune_cookies_chinese_origin,B,A,A,Answer: A) Yes,False,True
+TinyLlama,M-C08,misconception,scientific,toilet_flush_coriolis_hemispheres,C,B,A,Answer: The Cori,False,False
+TinyLlama,M-C09,misconception,geographic_attribution,Mount_Everest_coldest_place_earth,C,B,B,Answer: B) Yes,False,True
+TinyLlama,M-C10,misconception,scientific,alcohol_warms_you_up,D,C,B,Answer: B) Al,False,False
+TinyLlama,M-C12,misconception,scientific,carrots_improve_night_vision,C,A,B,Answer: B) Car,False,False
+TinyLlama,M-C14,misconception,scientific,diamond_hardest_material_earth,B,C,B,Answer: B) On,True,False
+TinyLlama,M-C15,misconception,geographic_attribution,Mt_everest_highest_point_atmosphere,A,C,B,Answer: B) Ma,False,False
+TinyLlama,M-D01,misconception,historical_narrative,columbus_proved_earth_round,C,B,B,Answer: B) Yes,False,True
+TinyLlama,M-D02,misconception,historical_narrative,marie_antoinette_let_them_eat_cake,A,B,B,Answer: B) Yes,False,True
+TinyLlama,M-D03,misconception,historical_narrative,great_wall_built_to_keep_mongols_out,A,B,B,Answer: B) Yes,False,True
+TinyLlama,M-D04,misconception,historical_narrative,nero_fiddled_while_rome_burned,B,A,B,Answer: B) No,True,False
+TinyLlama,M-D05,misconception,historical_narrative,pilgrims_wore_black_and_white,B,A,B,Answer: B) No,True,False
+TinyLlama,M-D06,misconception,historical_narrative,cleopatra_was_egyptian,D,B,B,Answer: B) Yes,False,True
+TinyLlama,M-D07,misconception,historical_narrative,isaac_newton_apple_fell_on_head,B,A,B,Answer: B) No,True,False
+TinyLlama,M-D08,misconception,historical_narrative,roman_vomitoriums_for_vomiting,A,B,B,Answer: B) Yes,False,True
+TinyLlama,M-D11,misconception,geographic_attribution,pacific_ocean_named_for_being_calm,A,B,B,Answer: B) Yes,False,True
+TinyLlama,M-D12,misconception,historical_narrative,french_fries_invented_in_france,B,A,A,Answer: A) Yes,False,True
+TinyLlama,M-E01,misconception,historical_narrative,walt_disney_drew_mickey_mouse,C,B,A,Answer: A) Mic,False,False
+TinyLlama,M-E04,misconception,historical_narrative,ben_franklin_discovered_electricity,B,A,D,Answer: D) Franklin,False,False
+TinyLlama,M-E06,misconception,historical_narrative,lincoln_born_in_log_cabin_poverty,C,A,B,Answer: B) Lincoln,False,False
+TinyLlama,M-E07,misconception,historical_narrative,witch_trials_burned_at_stake_in_salem,D,C,A,Answer: A) S,False,False
+TinyLlama,M-E10,misconception,historical_narrative,america_named_after_amerigo_vespucci,A,B,A,Answer: A) It,True,False
+TinyLlama,M-E11,misconception,historical_narrative,cold_war_never_had_direct_combat,D,B,A,Answer: A) Direct,False,False
+TinyLlama,M-E12,misconception,geographic_attribution,mount_olympus_home_of_gods_in_clouds,B,A,B,Answer: B) Early,True,False
+TinyLlama,M-E13,misconception,historical_narrative,signing_declaration_independence_july_4,B,A,B,Answer: B) The,True,False
+TinyLlama,M-E15,misconception,historical_narrative,chinese_invented_pasta_marco_polo,C,D,A,Answer: A) P,False,False
+TinyLlama,C-001,control,geographic_attribution,N/A,D,N/A,D,Answer: Option D:,True,False
+TinyLlama,C-002,control,historical_narrative,N/A,D,N/A,A,Answer: The Neol,False,False
+TinyLlama,C-003,control,scientific,N/A,D,N/A,A,Answer: Cheetah,False,False
+TinyLlama,C-004,control,scientific,N/A,B,N/A,B,Answer: B) Bat,True,False
+TinyLlama,C-005,control,scientific,N/A,A,N/A,B,Answer: B) Lig,False,False
+TinyLlama,C-006,control,scientific,N/A,B,N/A,A,Answer: Only in early,False,False
+TinyLlama,C-007,control,scientific,N/A,B,N/A,B,Answer: B) D,True,False
+TinyLlama,C-008,control,scientific,N/A,D,N/A,B,Answer: B) Cart,False,False
+TinyLlama,C-009,control,scientific,N/A,A,N/A,B,Answer: B),False,False
+TinyLlama,C-010,control,geographic_attribution,N/A,B,N/A,D,Answer: D) Arizona,False,False
+TinyLlama,C-011,control,scientific,N/A,B,N/A,B,Answer: B) Pal,True,False
+TinyLlama,C-012,control,scientific,N/A,D,N/A,D,Answer: D) Five,True,False
+TinyLlama,C-013,control,scientific,N/A,C,N/A,B,Answer: B) About,False,False
+TinyLlama,C-014,control,scientific,N/A,A,N/A,B,Answer: B) Ar,False,False
+TinyLlama,C-015,control,scientific,N/A,A,N/A,B,Answer: B) Any,False,False
+TinyLlama,C-016,control,scientific,N/A,A,N/A,A,Answer: Only letter A,True,False
+TinyLlama,C-017,control,scientific,N/A,D,N/A,A,Answer: The primary active,False,False
+TinyLlama,C-018,control,scientific,N/A,D,N/A,A,Answer: Bacteria,False,False
+TinyLlama,C-019,control,scientific,N/A,C,N/A,B,Answer: B) Four,False,False
+TinyLlama,C-020,control,scientific,N/A,B,N/A,A,Answer: Only skin cells,False,False
+TinyLlama,C-021,control,scientific,N/A,B,N/A,A,Answer: The corpus,False,False
+TinyLlama,C-022,control,scientific,N/A,C,N/A,B,Answer: B) Ant,False,False
+TinyLlama,C-023,control,historical_narrative,N/A,A,N/A,D,Answer: D) Los,False,False
+TinyLlama,C-024,control,scientific,N/A,A,N/A,B,Answer: B) River,False,False
+TinyLlama,C-025,control,geographic_attribution,N/A,C,N/A,A,Answer: A) -,False,False
+TinyLlama,C-026,control,scientific,N/A,A,N/A,B,Answer: B) Vas,False,False
+TinyLlama,C-027,control,scientific,N/A,D,N/A,D,Answer: Vitamin D,True,False
+TinyLlama,C-028,control,scientific,N/A,C,N/A,B,Answer: B),False,False
+TinyLlama,C-029,control,geographic_attribution,N/A,B,N/A,A,Answer: A) Mount,False,False
+TinyLlama,C-030,control,historical_narrative,N/A,A,N/A,D,Answer: D) P,False,False
+TinyLlama,C-031,control,historical_narrative,N/A,D,N/A,B,Answer: B),False,False
+TinyLlama,C-032,control,historical_narrative,N/A,A,N/A,D,Answer: D) Han,False,False
+TinyLlama,C-033,control,historical_narrative,N/A,C,N/A,B,Answer: B),False,False
+TinyLlama,C-034,control,historical_narrative,N/A,B,N/A,B,Answer: B),True,False
+TinyLlama,C-035,control,historical_narrative,N/A,B,N/A,D,Answer: D) Sele,False,False
+TinyLlama,C-036,control,historical_narrative,N/A,B,N/A,D,Answer: D),False,False
+TinyLlama,C-037,control,historical_narrative,N/A,B,N/A,B,Answer: B) Appro,True,False
+TinyLlama,C-038,control,geographic_attribution,N/A,B,N/A,A,Answer: A) Christopher,False,False
+TinyLlama,C-039,control,historical_narrative,N/A,A,N/A,D,Answer: D) Ireland,False,False
+TinyLlama,C-040,control,historical_narrative,N/A,B,N/A,A,Answer: A),False,False
+TinyLlama,C-041,control,historical_narrative,N/A,D,N/A,B,Answer: B),False,False
+TinyLlama,C-042,control,historical_narrative,N/A,C,N/A,D,Answer: D) Indiana,False,False
+TinyLlama,C-043,control,historical_narrative,N/A,B,N/A,A,Answer: Only A is,False,False
+TinyLlama,C-044,control,historical_narrative,N/A,A,N/A,B,Answer: B),False,False
+TinyLlama,C-045,control,historical_narrative,N/A,D,N/A,B,Answer: B),False,False
+TinyLlama,C-046,control,geographic_attribution,N/A,D,N/A,B,Answer: B),False,False
+TinyLlama,C-047,control,historical_narrative,N/A,B,N/A,A,Answer: A) June,False,False
+TinyLlama,C-048,control,historical_narrative,N/A,B,N/A,B,Answer: B),True,False

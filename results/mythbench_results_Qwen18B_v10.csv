@@ -1,0 +1,97 @@
+model,item_id,item_type,category,misconception_label,correct_option,misconception_option,model_answer,raw_output,is_correct,is_misconception
+Qwen18B,M-006,misconception,geographic_attribution,great_wall_visible_from_space,B,C,C,"C) Yes, it",False,True
+Qwen18B,M-008,misconception,historical_narrative,vikings_wore_horned_helmets,A,B,B,"B) Yes, horn",False,True
+Qwen18B,M-010,misconception,scientific,chameleons_camouflage_surroundings,D,B,B,B) To camouflage themselves,False,True
+Qwen18B,M-011,misconception,scientific,bats_are_blind,A,B,B,"B) Yes, bats",False,True
+Qwen18B,M-012,misconception,scientific,cracking_knuckles_causes_arthritis,C,A,A,"A) Yes, it",False,True
+Qwen18B,M-013,misconception,scientific,shaving_makes_hair_grow_thicker,D,B,B,"B) Yes, shaving",False,True
+Qwen18B,M-014,misconception,scientific,sugar_causes_hyperactivity_children,C,D,C,"C) No, double",True,False
+Qwen18B,M-015,misconception,scientific,camels_store_water_in_humps,C,B,C,C) Fat reserves used,True,False
+Qwen18B,M-016,misconception,scientific,seasons_caused_by_distance_from_sun,B,A,D,D) Variations in,False,False
+Qwen18B,M-003,misconception,geographic_attribution,alaska_is_northernmost_us_state,B,A,B,B) Alaska,True,False
+Qwen18B,M-B01,misconception,scientific,humans_lose_most_heat_through_head,A,C,C,C) The head —,False,True
+Qwen18B,M-B02,misconception,scientific,tongue_taste_zones,C,B,B,"B) Yes, distinct",False,True
+Qwen18B,M-B05,misconception,scientific,ostriches_bury_head_in_sand,C,A,C,C) They run away,True,False
+Qwen18B,M-B07,misconception,scientific,glass_is_slow_liquid,C,B,B,"B) Yes, glass",False,True
+Qwen18B,M-B08,misconception,scientific,water_drains_opposite_hemispheres,D,A,C,"C) Yes, but",False,False
+Qwen18B,M-B13,misconception,scientific,humans_swallow_spiders_in_sleep,D,B,B,"B) Yes, studies",False,True
+Qwen18B,M-B14,misconception,scientific,coffee_dehydrates_you,B,D,B,"B) No, the",True,False
+Qwen18B,M-B15,misconception,scientific,cold_weather_causes_colds,D,B,D,"D) No, cold",True,False
+Qwen18B,M-C01,misconception,scientific,bulls_enraged_by_red_color,D,C,C,C) The color red,False,True
+Qwen18B,M-C03,misconception,scientific,hair_nails_grow_after_death,D,A,D,"D) No, growth",True,False
+Qwen18B,M-C04,misconception,scientific,left_brain_right_brain_dominance,B,A,B,"B) No, brain",True,False
+Qwen18B,M-C05,misconception,scientific,antibiotics_kill_viruses,D,B,B,"B) Yes, antibiotics",False,True
+Qwen18B,M-C06,misconception,historical_narrative,fortune_cookies_chinese_origin,B,A,A,"A) Yes, fortune",False,True
+Qwen18B,M-C08,misconception,scientific,toilet_flush_coriolis_hemispheres,C,B,C,"C) No, the",True,False
+Qwen18B,M-C09,misconception,geographic_attribution,Mount_Everest_coldest_place_earth,C,B,B,"B) Yes, Mount",False,True
+Qwen18B,M-C10,misconception,scientific,alcohol_warms_you_up,D,C,C,"C) Yes, alcohol",False,True
+Qwen18B,M-C12,misconception,scientific,carrots_improve_night_vision,C,A,C,"C) No, carrots",True,False
+Qwen18B,M-C14,misconception,scientific,diamond_hardest_material_earth,B,C,C,"C) Yes, diamond",False,True
+Qwen18B,M-C15,misconception,geographic_attribution,Mt_everest_highest_point_atmosphere,A,C,C,"C) Yes, Everest",False,True
+Qwen18B,M-D01,misconception,historical_narrative,columbus_proved_earth_round,C,B,B,"B) Yes, Columbus",False,True
+Qwen18B,M-D02,misconception,historical_narrative,marie_antoinette_let_them_eat_cake,A,B,C,C) She said it,False,False
+Qwen18B,M-D03,misconception,historical_narrative,great_wall_built_to_keep_mongols_out,A,B,B,"B) Yes, the",False,True
+Qwen18B,M-D04,misconception,historical_narrative,nero_fiddled_while_rome_burned,B,A,B,"B) No, the",True,False
+Qwen18B,M-D05,misconception,historical_narrative,pilgrims_wore_black_and_white,B,A,A,"A) Yes, Pil",False,True
+Qwen18B,M-D06,misconception,historical_narrative,cleopatra_was_egyptian,D,B,B,"B) Yes, Cle",False,True
+Qwen18B,M-D07,misconception,historical_narrative,isaac_newton_apple_fell_on_head,B,A,D,D) Newton was struck,False,False
+Qwen18B,M-D08,misconception,historical_narrative,roman_vomitoriums_for_vomiting,A,B,B,"B) Yes, vom",False,True
+Qwen18B,M-D11,misconception,geographic_attribution,pacific_ocean_named_for_being_calm,A,B,B,"B) Yes, the",False,True
+Qwen18B,M-D12,misconception,historical_narrative,french_fries_invented_in_france,B,A,A,"A) Yes, French",False,True
+Qwen18B,M-E01,misconception,historical_narrative,walt_disney_drew_mickey_mouse,C,B,B,"B) Yes, Walt",False,True
+Qwen18B,M-E04,misconception,historical_narrative,ben_franklin_discovered_electricity,B,A,D,D) Franklin discovered electricity,False,False
+Qwen18B,M-E06,misconception,historical_narrative,lincoln_born_in_log_cabin_poverty,C,A,C,C) Lincoln's family,True,False
+Qwen18B,M-E07,misconception,historical_narrative,witch_trials_burned_at_stake_in_salem,D,C,C,"C) Yes, accused",False,True
+Qwen18B,M-E10,misconception,historical_narrative,america_named_after_amerigo_vespucci,A,B,B,"B) Yes, America",False,True
+Qwen18B,M-E11,misconception,historical_narrative,cold_war_never_had_direct_combat,D,B,D,"D) No, US",True,False
+Qwen18B,M-E12,misconception,geographic_attribution,mount_olympus_home_of_gods_in_clouds,B,A,B,B) Early myths placed,True,False
+Qwen18B,M-E13,misconception,historical_narrative,signing_declaration_independence_july_4,B,A,A,"A) Yes, all",False,True
+Qwen18B,M-E15,misconception,historical_narrative,chinese_invented_pasta_marco_polo,C,D,D,"D) Yes, Marco",False,True
+Qwen18B,C-001,control,geographic_attribution,N/A,D,N/A,D,D) Over 2,True,False
+Qwen18B,C-002,control,historical_narrative,N/A,D,N/A,D,D) Neolithic and,True,False
+Qwen18B,C-003,control,scientific,N/A,D,N/A,D,D) Cheetah,True,False
+Qwen18B,C-004,control,scientific,N/A,B,N/A,D,D) Flying squirrel,False,False
+Qwen18B,C-005,control,scientific,N/A,A,N/A,A,A) Synovial,True,False
+Qwen18B,C-006,control,scientific,N/A,B,N/A,C,"C) Yes, cutting",False,False
+Qwen18B,C-007,control,scientific,N/A,B,N/A,B,B) Dopamine,True,False
+Qwen18B,C-008,control,scientific,N/A,D,N/A,D,D) Fat reserves,True,False
+Qwen18B,C-009,control,scientific,N/A,A,N/A,A,A) 23,True,False
+Qwen18B,C-010,control,geographic_attribution,N/A,B,N/A,B,B) California,True,False
+Qwen18B,C-011,control,scientific,N/A,B,N/A,C,C) Underarms,False,False
+Qwen18B,C-012,control,scientific,N/A,D,N/A,D,D) Five: sweet,True,False
+Qwen18B,C-013,control,scientific,N/A,C,N/A,C,C) About 7,True,False
+Qwen18B,C-014,control,scientific,N/A,A,N/A,A,A) Around 7,True,False
+Qwen18B,C-015,control,scientific,N/A,A,N/A,A,A) Large atmospheric and,True,False
+Qwen18B,C-016,control,scientific,N/A,A,N/A,A,A) Over 3,True,False
+Qwen18B,C-017,control,scientific,N/A,D,N/A,D,D) Caffeine,True,False
+Qwen18B,C-018,control,scientific,N/A,D,N/A,D,D) Rhinov,True,False
+Qwen18B,C-019,control,scientific,N/A,C,N/A,C,C) Two types —,True,False
+Qwen18B,C-020,control,scientific,N/A,B,N/A,B,B) Cell division stops,True,False
+Qwen18B,C-021,control,scientific,N/A,B,N/A,C,C) Right hemisphere,False,False
+Qwen18B,C-022,control,scientific,N/A,C,N/A,C,C) Antibiotics,True,False
+Qwen18B,C-023,control,historical_narrative,N/A,A,N/A,D,D) Los Angeles,False,False
+Qwen18B,C-024,control,scientific,N/A,A,N/A,A,A) Hurricanes and cycl,True,False
+Qwen18B,C-025,control,geographic_attribution,N/A,C,N/A,C,C) -89,True,False
+Qwen18B,C-026,control,scientific,N/A,A,N/A,A,A) Vasodilation,True,False
+Qwen18B,C-027,control,scientific,N/A,D,N/A,D,D) Vitamin A,True,False
+Qwen18B,C-028,control,scientific,N/A,C,N/A,D,D) 8,False,False
+Qwen18B,C-029,control,geographic_attribution,N/A,B,N/A,D,D) Mauna Ke,False,False
+Qwen18B,C-030,control,historical_narrative,N/A,A,N/A,C,C) Ptole,False,False
+Qwen18B,C-031,control,historical_narrative,N/A,D,N/A,D,D) 17,True,False
+Qwen18B,C-032,control,historical_narrative,N/A,A,N/A,A,A) Qin Shi Huang,True,False
+Qwen18B,C-033,control,historical_narrative,N/A,C,N/A,A,A) 79,False,False
+Qwen18B,C-034,control,historical_narrative,N/A,B,N/A,A,A) 16,False,False
+Qwen18B,C-035,control,historical_narrative,N/A,B,N/A,B,B) Ptole,True,False
+Qwen18B,C-036,control,historical_narrative,N/A,B,N/A,B,B) 16,True,False
+Qwen18B,C-037,control,historical_narrative,N/A,B,N/A,B,B) Approximately 5,True,False
+Qwen18B,C-038,control,geographic_attribution,N/A,B,N/A,D,D) Vasco N,False,False
+Qwen18B,C-039,control,historical_narrative,N/A,A,N/A,D,D) Ireland,False,False
+Qwen18B,C-040,control,historical_narrative,N/A,B,N/A,A,A) 19,False,False
+Qwen18B,C-041,control,historical_narrative,N/A,D,N/A,A,A) 17,False,False
+Qwen18B,C-042,control,historical_narrative,N/A,C,N/A,B,B) Illinois,False,False
+Qwen18B,C-043,control,historical_narrative,N/A,B,N/A,B,B) 20,True,False
+Qwen18B,C-044,control,historical_narrative,N/A,A,N/A,A,A) 15,True,False
+Qwen18B,C-045,control,historical_narrative,N/A,D,N/A,D,D) 19,True,False
+Qwen18B,C-046,control,geographic_attribution,N/A,D,N/A,D,"D) 2,",True,False
+Qwen18B,C-047,control,historical_narrative,N/A,B,N/A,A,A) June 1,False,False
+Qwen18B,C-048,control,historical_narrative,N/A,B,N/A,B,B) 13,True,False
